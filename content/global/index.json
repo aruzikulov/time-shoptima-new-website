@@ -1,11 +1,11 @@
 {
   "header": {
     "icon": {
-      "name": "Tina",
+      "name": "BiDollar",
       "color": "orange",
       "style": "float"
     },
-    "name": "Tina Starter",
+    "name": "SHOPTIMA",
     "color": "default",
     "nav": [
       {
@@ -25,12 +25,12 @@
   "footer": {
     "color": "default",
     "social": {
-      "facebook": "",
-      "twitter": "https://x.com/TinaCMS",
-      "instagram": "",
-      "linkedIn": "https://www.linkedin.com/company/tinacms",
-      "github": "https://github.com/tinacms/tinacms",
-      "youtube": "https://www.youtube.com/@TinaCMS"
+      "facebook": "https://www.facebook.com/shoptima",
+      "twitter": "https://x.com/shoptimauz",
+      "instagram": "https://www.instagram.com/shoptima.uz/",
+      "linkedIn": "https://www.linkedin.com/company/shoptima",
+      "github": "",
+      "youtube": "https://www.youtube.com/@shoptima"
     }
   },
   "theme": {
